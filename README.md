@@ -23,7 +23,7 @@ Vitality Gym Web Application: Personalized exercise, diet guidance, and AI chatb
 
 Hospital Management System: Optimized hospital operations using advanced network technologies like VLANs, DHCP, ACLs, and IPsec VPN in Cisco Packet Tracer.
 
-I'm eager to collaborate on exciting projects and contribute to the tech community. Feel free to reach out! 🌟
+
 
 <!--
 
@@ -32,5 +32,3 @@ Connect with me:
 📧 Email: eimanasir12@gmail.com
 📱 Phone: 0335-0039418
 -->
-
-Moreover, I've recently developed an interest in UI/UX after competing in a design competition known as Women Tech Quest by 10pearls and am also developing interest for data mining and AI as I've recently worked on NLP.
