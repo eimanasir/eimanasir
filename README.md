@@ -1,24 +1,11 @@
-Hi there! 👋
-I'm Eima Nasir, a passionate 6th-semester Software Engineering student based in Karachi, Pakistan.
 
-🎓 Education
-
-Currently pursuing my degree in Software Engineering at Bahria University Karachi Campus.
-
-🔧 Skills
+Skills
 
 Proficient in Java, JavaScript, CSS, HTML.
 Experienced with MySQL and MongoDB databases.
 Skilled in React, C#, and Python.
-Strong problem-solving and analytical abilities.
-Effective communication and interpersonal skills.
-Proven teamwork through successful collaborations.
-Adaptability and eagerness to learn new technologies.
-Detail-oriented with a focus on delivering quality solutions.
-Familiar with software development methodologies.
-Excellent time management and organizational skills.
 
-🚀 Projects
+Projects
 
 Excise Taxation and Registration System (C#): Designed a vehicle registration system with unique numbers and annual tax calculations.
 
